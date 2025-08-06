@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "jLDk2P/Fr0o=",
+  "success": true,
+  "projectFilePath": "/Users/antoniocoppe/RiderProjects/CrackingTheCodingInterview/CrackingTheCodingInterview/CrackingTheCodingInterview.csproj",
+  "expectedPackageFiles": [
+    "/Users/antoniocoppe/.nuget/packages/jetbrains.annotations/2025.2.0/jetbrains.annotations.2025.2.0.nupkg.sha512"
+  ],
+  "logs": []
+}
