@@ -15,3 +15,4 @@
 /Users/antoniocoppe/RiderProjects/CrackingTheCodingInterview/CrackingTheCodingInterview/bin/Debug/net9.0/JetBrains.Annotations.dll
 /Users/antoniocoppe/RiderProjects/CrackingTheCodingInterview/CrackingTheCodingInterview/obj/Debug/net9.0/CrackingTheCodingInterview.csproj.AssemblyReference.cache
 /Users/antoniocoppe/RiderProjects/CrackingTheCodingInterview/CrackingTheCodingInterview/obj/Debug/net9.0/Cracking.6CFE6EAE.Up2Date
+/Users/antoniocoppe/RiderProjects/CrackingTheCodingInterview/CrackingTheCodingInterview/obj/Debug/net9.0/CrackingTheCodingInterview.sourcelink.json
