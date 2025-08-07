@@ -1,0 +1,37 @@
+# macOS
+.DS_Store
+
+# JetBrains Rider / IntelliJ
+.idea/
+*.sln.iml
+*.iml
+*.ipr
+*.iws
+
+# Rider/ReSharper user-specific settings (keep team-shared .DotSettings, ignore only .user)
+*.DotSettings.user
+
+# Rider/JetBrains generic output
+out/
+
+# .NET build output
+[Bb]in/
+[Oo]bj/
+
+# Visual Studio workspace (if opened there)
+.vs/
+
+# Logs
+*.log
+
+# NuGet
+*.nupkg
+*.snupkg
+packages/
+
+# ReSharper caches (older/VS)
+_ReSharper.*/
+*.[Rr]e[Ss]harper
+_ReSharper.Caches/
+
+
